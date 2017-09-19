@@ -3,8 +3,8 @@
 
 int check_win(BOARD arr, char str) //승패 검사 함수 정의
 {
-	int rstart, cstart, rend, cend; //행, 열 변수 선언
-	int row, column;
+	int rstart, cstart, rend, cend; //행과 열을 초기화하기 위한 변수 선언
+	int row, column; //행과 열을 세기 위한 변수 선언
 	int count = 0; //카운트 변수 선언
 
 				   //가로검사
