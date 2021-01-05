@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex1", "ex1\ex1.vcxproj", "{B5E6C603-068D-4AC7-85FF-BE477210B24B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex2", "ex2\ex2.vcxproj", "{10A7A070-6A5F-42BC-901F-3D190230D9D0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex2-1", "ex2-1\ex2-1.vcxproj", "{3FB49B54-27AB-47BD-B845-1068F23E1544}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "seats_advanced", "seats_advanced\seats_advanced.vcxproj", "{916A95A5-5991-44C9-ABBB-5C26A3818CF1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "seats_2d", "seats_2d\seats_2d.vcxproj", "{9E553982-2001-4F49-B7D0-5CE638A65D4F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "omok", "omok\omok.vcxproj", "{8EAF2F7C-DE39-42A8-B87C-FF61738B5155}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "omok_advance", "omok_advance\omok_advance.vcxproj", "{9FD96BE2-D8C0-41E2-ABBD-236F816AAABE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "seats_ptr", "seats_ptr\seats_ptr.vcxproj", "{DFD8F6AC-29E0-4032-B86E-44D0306D1087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5E6C603-068D-4AC7-85FF-BE477210B24B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B5E6C603-068D-4AC7-85FF-BE477210B24B}.Debug|Win32.Build.0 = Debug|Win32
+		{B5E6C603-068D-4AC7-85FF-BE477210B24B}.Release|Win32.ActiveCfg = Release|Win32
+		{B5E6C603-068D-4AC7-85FF-BE477210B24B}.Release|Win32.Build.0 = Release|Win32
+		{10A7A070-6A5F-42BC-901F-3D190230D9D0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{10A7A070-6A5F-42BC-901F-3D190230D9D0}.Debug|Win32.Build.0 = Debug|Win32
+		{10A7A070-6A5F-42BC-901F-3D190230D9D0}.Release|Win32.ActiveCfg = Release|Win32
+		{10A7A070-6A5F-42BC-901F-3D190230D9D0}.Release|Win32.Build.0 = Release|Win32
+		{3FB49B54-27AB-47BD-B845-1068F23E1544}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3FB49B54-27AB-47BD-B845-1068F23E1544}.Debug|Win32.Build.0 = Debug|Win32
+		{3FB49B54-27AB-47BD-B845-1068F23E1544}.Release|Win32.ActiveCfg = Release|Win32
+		{3FB49B54-27AB-47BD-B845-1068F23E1544}.Release|Win32.Build.0 = Release|Win32
+		{916A95A5-5991-44C9-ABBB-5C26A3818CF1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{916A95A5-5991-44C9-ABBB-5C26A3818CF1}.Debug|Win32.Build.0 = Debug|Win32
+		{916A95A5-5991-44C9-ABBB-5C26A3818CF1}.Release|Win32.ActiveCfg = Release|Win32
+		{916A95A5-5991-44C9-ABBB-5C26A3818CF1}.Release|Win32.Build.0 = Release|Win32
+		{9E553982-2001-4F49-B7D0-5CE638A65D4F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9E553982-2001-4F49-B7D0-5CE638A65D4F}.Debug|Win32.Build.0 = Debug|Win32
+		{9E553982-2001-4F49-B7D0-5CE638A65D4F}.Release|Win32.ActiveCfg = Release|Win32
+		{9E553982-2001-4F49-B7D0-5CE638A65D4F}.Release|Win32.Build.0 = Release|Win32
+		{8EAF2F7C-DE39-42A8-B87C-FF61738B5155}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8EAF2F7C-DE39-42A8-B87C-FF61738B5155}.Debug|Win32.Build.0 = Debug|Win32
+		{8EAF2F7C-DE39-42A8-B87C-FF61738B5155}.Release|Win32.ActiveCfg = Release|Win32
+		{8EAF2F7C-DE39-42A8-B87C-FF61738B5155}.Release|Win32.Build.0 = Release|Win32
+		{9FD96BE2-D8C0-41E2-ABBD-236F816AAABE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9FD96BE2-D8C0-41E2-ABBD-236F816AAABE}.Debug|Win32.Build.0 = Debug|Win32
+		{9FD96BE2-D8C0-41E2-ABBD-236F816AAABE}.Release|Win32.ActiveCfg = Release|Win32
+		{9FD96BE2-D8C0-41E2-ABBD-236F816AAABE}.Release|Win32.Build.0 = Release|Win32
+		{DFD8F6AC-29E0-4032-B86E-44D0306D1087}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DFD8F6AC-29E0-4032-B86E-44D0306D1087}.Debug|Win32.Build.0 = Debug|Win32
+		{DFD8F6AC-29E0-4032-B86E-44D0306D1087}.Release|Win32.ActiveCfg = Release|Win32
+		{DFD8F6AC-29E0-4032-B86E-44D0306D1087}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
